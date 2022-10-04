@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pushNotificationsApp</string>
+    <string name="title_activity_main">pushNotificationsApp</string>
+    <string name="package_name">com.pushNotifications.pushNotificationsApp</string>
+    <string name="custom_url_scheme">com.pushNotifications.pushNotificationsApp</string>
+</resources>
